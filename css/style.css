@@ -44,6 +44,11 @@ div{
 }
 
 @media (min-width: 772px) {
+    section{
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 5px; 
+    }
   div{
     width: 45vw;
   
