@@ -47,7 +47,7 @@ div{
     section{
   display: grid;
   grid-template-columns: auto auto;
-  gap: 5px; 
+
     }
   div{
     width: 45vw;
